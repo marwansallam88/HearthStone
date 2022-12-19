@@ -1,5 +1,5 @@
 # HearthStone
-Go to drive link download game
+Go to drive link download game https://drive.google.com/file/d/1-qI7CtSx5kGCqpqlLrnVQH66NTVyCHm0/view?usp=sharing
 Open java editor ecplise recommended
 Import game to workspace
 Setup path and setting according to your computer
