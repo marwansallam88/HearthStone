@@ -1,21 +1,17 @@
 # HearthStone
 
-How to play:
-  1. Open java editor ecplise recommended
-  2.Import game to workspace  
-  3.Setup path and setting according to your computer  
-  4.Open controller.java then run controller.java  
-  5.Understand the rules in the pdf file provided with game  
-  6.Enjoy the game  
-
 Description:
+ A simplified Hearthstone-inspired card game built with Java and Swing. The project showcases object-oriented design principles to simulate turn-based gameplay, custom heroes, and dynamic cards. Game data is loaded from CSV files, and the UI is implemented using Java Swing for basic interaction.
 
-Developed a modular, object-oriented card game simulator in Java based on Blizzard's Hearthstone, following strict package architecture and encapsulation principles.
-
-Designed and implemented core game logic, including card types (minions/spells), hero classes, game engine, and custom exceptions for rule enforcement.
-
-Loaded dynamic card data from CSV files, built hero-specific decks with randomization logic, and handled data validation and constraints.
-
-Used Java Swing to develop a basic GUI interface to simulate card interactions, gameplay flow, and state transitions.
-
-Applied OOP concepts such as inheritance, abstraction, and polymorphism to model complex game mechanics in a maintainable and extensible way.
+Key aspects:
+• Built a Hearthstone-inspired card game using Java with modular OOP design, implementing custom heroes, cards, and game logic.
+• Developed a basic GUI with Swing and loaded dynamic card/deck data from CSV files.
+• Applied inheritance, abstraction, and exception handling to simulate complex game mechanics.Built a Hearthstone-inspired card game using Java with modular OOP design, implementing custom heroes, cards, and game logic.
+  
+How to play:
+  1. Open java editor ecplise recommended.
+  2. Import game to the workspace.
+  3. Setup path and setting according to your computer.
+  4. Open controller.java then run controller.java.
+  5. Understand the rules in the pdf file provided with game.
+  6. Enjoy the game  
