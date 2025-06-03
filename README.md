@@ -1,7 +1,7 @@
 # HearthStone
 
 Description:
- A simplified Hearthstone-inspired card game built with Java and Swing. The project showcases object-oriented design principles to simulate turn-based gameplay, custom heroes, and dynamic cards. Game data is loaded from CSV files, and the UI is implemented using Java Swing for basic interaction.
+A simplified Hearthstone-inspired card game built with Java and Swing. The project showcases object-oriented design principles to simulate turn-based gameplay, custom heroes, and dynamic cards. Game data is loaded from CSV files, and the UI is implemented using Java Swing for basic interaction.
 
 Key aspects:
 • Built a Hearthstone-inspired card game using Java with modular OOP design, implementing custom heroes, cards, and game logic.
