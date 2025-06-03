@@ -1,7 +1,7 @@
 # HearthStone
 
 How to play:
-  1.Open java editor ecplise recommended  
+  1. Open java editor ecplise recommended
   2.Import game to workspace  
   3.Setup path and setting according to your computer  
   4.Open controller.java then run controller.java  
