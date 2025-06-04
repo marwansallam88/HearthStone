@@ -28,11 +28,3 @@ A digital collectible card game inspired by Hearthstone, built with Java and Swi
 7. Draw cards and manage your mana each turn
 8. Play cards to attack your opponent
 9. Reduce opponent's health to zero to win
-
-## How to Play:
-1. Open a Java IDE (Eclipse recommended).
-2. Import the project into your workspace.
-3. Set up project paths and settings according to your environment.
-4. Open `Controller.java` and run it.
-5. Review the rules provided in the accompanying PDF file.
-6. Enjoy the game!
