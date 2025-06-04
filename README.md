@@ -2,7 +2,8 @@
 
 ## 📖 Project Overview
 A digital collectible card game inspired by Hearthstone, built with Java and Swing GUI components. This implementation focuses on clean object-oriented design while delivering an engaging turn-based gameplay experience.
-
+![Game](Homescreen.png)
+![Game](Gamescreen.png)
 ## ✨ Key Features
 - **Modular OOP Architecture**: Proper separation of game logic, UI, and data layers
 - **Dynamic Card System**: Support for multiple card types with unique effects
